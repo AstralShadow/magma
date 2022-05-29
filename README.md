@@ -1,7 +1,7 @@
 # Magma
 Simple standalone database managment system
 
-# WARNING. You're entering LEGACY areas
+# WARNING. You're entering LEGACY zone
 These source codes are yet to be rewritten by me.  
 I've created them way before i learned anything about clean code.
 You're reading them on your own risk.
